@@ -81,7 +81,6 @@ export const BYLAWS_DATA = {
     { name: "Utkan Ulaş Yurttaş", role: "Başkan Yardımcısı" },
     { name: "Mustafa Gedik", role: "Genel Sekreter" },
     { name: "Eda Özuğur", role: "Sayman" },
-    { name: "Tan Öktenay", role: "Üye" },
     { name: "Çağatay Kazık", role: "Üye" },
     { name: "Başak Şengül", role: "Üye" }
   ]
